@@ -1,10 +1,10 @@
 ### Hi there 👋
 # Hi there! My name is Jose Tirado 👋
 
-Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Backend Software develop 🚀 from Spain, but I describe myself as a 👾 Tech geek.
+Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Engineer🚀 from Spain, but I describe myself as a 👾Tech geek.
 
-### About personal stuff
-- 🔭 I’m currently working on .NET projects for Schneider Electric
+### About me
+- 🔭 I’m currently working on IoT projects using .NET technologies for Schneider Electric
 - 🌱 I’m currently exploring new things in technology
 - 🥅 Goals: Start to contribute to Open Source projects
 - ⚡ I love to play and learn new things.
