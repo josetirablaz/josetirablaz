@@ -14,5 +14,5 @@ Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Eng
 
 ### Quote of the day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
