@@ -14,5 +14,5 @@ Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Eng
 
 ### Quote of the day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
+<i>❝“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
