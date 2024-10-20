@@ -14,5 +14,5 @@ Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Eng
 
 ### Quote of the day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
