@@ -14,5 +14,5 @@ Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Eng
 
 ### Quote of the day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
