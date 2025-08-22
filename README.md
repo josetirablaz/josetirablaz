@@ -14,5 +14,5 @@ Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Eng
 
 ### Quote of the day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
