@@ -69,3 +69,8 @@ These days I'm particularly curious about the evolution of software engineering 
 - What happens to traditional software development practices as AI becomes part of the engineering workflow.
 
 And, as always, how to keep complex systems understandable.
+
+## Quote of the day
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
