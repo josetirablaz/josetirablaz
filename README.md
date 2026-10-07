@@ -1,18 +1,71 @@
-### Hi there 👋
 # Hi there! My name is Jose Tirado 👋
 
-Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a Software Engineer🚀 from Spain, but I describe myself as a 👾Tech geek.
+Hi, I'm [Jose Tirado](https://www.linkedin.com/in/josetirablaz/), a **Senior Software Engineer**🚀 from Spain, with a passion for building software and understanding how complex systems work.
 
-### About me
-- 🔭 I’m currently working on IoT projects using .NET technologies for Schneider Electric
-- 🌱 I’m currently exploring new things in technology
-- 🥅 Goals: Start to contribute to Open Source projects
-- ⚡ I love to play and learn new things.
+I've spent my career working on software for different industries, from **e-learning and Oil&Gas to Energy sector**.
 
-### Languages and tools
-<img src="https://raw.githubusercontent.com/akkadotnet/.github/master/profile/akkalogo.png" alt="akkadotnet" width="60" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/cncf/artwork/7e1e367a5b30b3849953ab5a0133052b31691d5d/projects/k3s/icon/color/k3s-icon-color.svg" alt="k3s" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/>
+My professional experience spans **software development, distributed systems, cybersecurity, DevOps and engineering practices**.
 
-### Quote of the day
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+I'm particularly interested in the intersection between software engineering, security, architecture and the processes that allow teams to build better software.
+
+## 🧑‍💻 About me
+My professional journey started in a small company in Seville, working in the e-learning industry.
+
+I later joined a large international consultancy, where I worked on critical, distributed and very near realtime latency software for a major Oil&Gas company.
+
+For the last several years, I've been working in the energy sector, where I've had the opportunity to work on very different kinds of systems and projects:
+
+- 🏗️ Large-scale legacy systems - contributing to a business-critical product built over few decades
+- ⚡ Smart metering and IoT - developing a Head-End system using .NET
+- 📊 Low-voltage grid analytics - building distributed solutions for LV electrical networks using PySpark
+- 🔬 Proofs of concept and new products - helping explore and build new solutions for grid monitoring and analytics
+
+Working on such different systems has shaped the way I think about software engineering.
+
+I've learned that building good software is rarely about the technology itself. It's about **understanding the problem, making the right trade-offs, dealing with constraints and continuously evolving the system**.
+
+## 🧠 What I'm interested in
+
+I'm particularly interested in:
+- 🏗️ Software Architecture & Design
+- 🛠️ Developer Experience & Engineering Practices
+- ⚡ Energy, IoT & Smart Grids
+- 🐍 Python & Data Engineering
+- 🌐 Distributed Systems
+- 📊 Data & Analytics
+- 🛡️ Application Security & DevSecOps
+- ☁️ Cloud Computing
+
+I'm especially fascinated by complex systems where **software, infrastructure, security and real-world constraints all meet**.
+
+## 🧰 Technology
+
+My professional background is mainly around the .NET ecosystem, particularly C#, Python and distributed data processing with PySpark.
+
+I've also worked extensively with the tooling around modern software delivery, including CI/CD, code quality, security analysis, dependency management and container security.
+
+Over the years I've worked with a variety of technologies, but I try not to define myself by a particular technology stack though.
+
+**Technologies change. Engineering principles tend to last much longer.**
+
+## 💭 Things I believe
+
+> Software engineering is about trade-offs, not absolutes.
+
+> Architecture is a tool for managing complexity, not a collection of diagrams.
+
+> Automation should make good engineering practices easier to follow.
+
+> The best technology is rarely the most interesting part of a system.
+
+> A good solution starts with understanding the problem.
+
+> There is always something new worth learning.
+
+## 🔭 Currently curious about
+
+These days I'm particularly curious about the evolution of software engineering in the age of AI:
+- How to build reliable systems around probabilistic components.
+- What happens to traditional software development practices as AI becomes part of the engineering workflow.
+
+And, as always, how to keep complex systems understandable.
